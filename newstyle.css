@@ -1,0 +1,33 @@
+/* logo on navbar */
+.logotop{
+    height: 60px !important;
+    width: 60px !important;
+    display:inline-block;
+    margin:0 10px 10px 0;
+    border-radius: 10%;
+}
+
+/* about us color */
+.about_color{
+    color: rgb(65, 126, 240);
+    /* color: rgb(39, 112, 247); */
+
+}
+
+/* contact section address */
+.address_space{
+    line-height: 20px;
+}
+
+/* 3 cards on top */
+.images-3{
+min-height: 350px;
+}
+
+section.hoc.container.clear{
+padding-top:0;
+}
+
+main.hoc.container.clear{
+    padding-bottom: 40px;
+}

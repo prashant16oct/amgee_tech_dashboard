@@ -1,0 +1,77 @@
+.cardButton:hover {
+  display: inline-block;
+}
+
+.cards {
+  border-radius: 10px;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.card {
+  background-color: #A032AB;
+  margin-bottom: 30px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.card1 {
+  transition: transform 0.5s ease;
+  margin: auto;
+  height: 60vh;
+  width: 100%;
+}
+
+.card1:hover {
+  transition: 0.5s;
+}
+
+.card2 {
+  transition: transform 0.5s ease;
+  margin: auto;
+  height: 60vh;
+  width: 100%;
+  background-image: url("images/val_maps.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card2:hover {
+  transition: 0.5s;
+}
+
+.card3 {
+  transition: transform 0.5s ease;
+  margin: auto;
+  height: 60vh;
+  width: 100%;
+  background-image: url("images/val_ranks.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card3:hover {
+  transition: 0.5s;
+}
+
+.product_heading {
+  font-size: 5rem;
+  padding: 2%;
+  text-align: center;
+}
+
+.product_info{
+  text-align: center;
+}
+
+.product_image {
+  padding: 0 5%;
+  border-radius: 20%;
+}
+
+.product_text {
+  padding: 0 10%;
+}
